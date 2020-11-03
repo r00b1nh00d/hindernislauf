@@ -16,6 +16,7 @@ Spielfigur = game.createSprite(2, 4)
 Lass die Spielfigur mit dem A-Knopf ein Feld nach links bewegen und mit dem B-Knopf ein Feld nach rechts.
 ```blocks
 let Spielfigur: game.LedSprite = null
+Spielfigur = game.createSprite(2, 4)
 
 input.onButtonPressed(Button.B, function () {
     Spielfigur.change(LedSpriteProperty.X, 1)
@@ -27,13 +28,16 @@ input.onButtonPressed(Button.A, function () {
 ## Schritt 3: das erste Hindernis erstellen
 Das Hindernis soll an einer zufälligen Stelle in der oberen Reihe auftauchen.
 ```blocks
+let Hindernis1: game.LedSprite = null
 let Hindernis1 = game.createSprite(Math.randomRange(0, 4), 0)
 Hindernis1.turn(Direction.Right, 90)
 ```
-## Schritt 5: 
+## Schritt 4: 
 Nun soll das Hindernis nach unten bewegt werden. Sobald das Hindernis die Speilfigur bewegt ist das ``||game: Spiel beendet||``. Wenn das Hindernis am unteren Bildschirmrand angekommen ist soll es wieder nach oben gesetzt werden.
 ```blocks
 let Spielfigur: game.LedSprite = null
+let Hindernis1: game.LedSprite = null
+Spielfigur = game.createSprite(2, 4)
 let Hindernis1 = game.createSprite(Math.randomRange(0, 4), 0)
 
 basic.forever(function () {
