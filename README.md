@@ -2,6 +2,8 @@
 ## ~avatar avatar @unplugged
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
+![BildHindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif)
+
 
 ## ~ @unplugged
 Ziel des Spieles bewege die Spielfigut mit den Tasten A und B und weiche so den Hindernissen aus.
