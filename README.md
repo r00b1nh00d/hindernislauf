@@ -2,6 +2,8 @@
 ## ~avatar avatar @unplugged
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
+
+<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif" alt="Alt-Text" title="" />
 ![BildHindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif)
 
 
