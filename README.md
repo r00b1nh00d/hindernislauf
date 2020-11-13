@@ -4,7 +4,7 @@
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
 <img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif" alt="Alt-Text" title="" />
-![BildHindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif)
+![BildHindernislauf](https://giphy.com/gifs/f8mZdqV3E16aF6VOpt/html5)
 
 
 ## ~ @unplugged
