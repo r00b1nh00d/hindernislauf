@@ -3,8 +3,8 @@
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
-<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif" alt="Alt-Text" title="" />
-![BildHindernislauf](https://media.giphy.com/media/f8mZdqV3E16aF6VOpt/giphy.gif)
+<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif" alt="Alt-Text" title="" />
+![BildHindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif)
 
 
 ## ~ @unplugged
