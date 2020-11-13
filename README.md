@@ -3,7 +3,7 @@
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
-<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif" alt="Alt-Text" title="" />
+<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif" alt="Kürbis" title="" />
 ![BildHindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif)
 
 
