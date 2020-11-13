@@ -4,7 +4,7 @@
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
 <img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/01_flashing_heart_animation.gif" width="40" height="40" />
-
+![Heart shape in the LEDs](https://github.com/r00b1nh00d/hindernislauf/blob/master/01_flashing_heart_animation.gif)
 
 
 ## ~ @unplugged
