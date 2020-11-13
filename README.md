@@ -3,13 +3,13 @@
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
-<img src="https://github.com/r00b1nh00d/hindernislauf/blob/master/01_flashing_heart_animation.gif" width="40" height="40" />
+
 
 
 
 ## ~ @unplugged
 Ziel des Spieles bewege die Spielfigut mit den Tasten A und B und weiche so den Hindernissen aus.
-![JackO](/path/to/https://github.com/r00b1nh00d/hindernislauf/blob/master/K%C3%BCrbis.gif)
+
 
 ## Schritt 1: Erstelle eine Spielfigur
 Als erstes erstellen wir uns eine Spielfigur in der Mitte des unteren Bildschirmrandes.
