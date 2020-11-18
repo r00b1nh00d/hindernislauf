@@ -3,7 +3,7 @@
 
 Viel Spaß mit dem Hindernislauf auf deinem @boardname@ 
 
-
+![Hindernislauf](https://github.com/r00b1nh00d/hindernislauf/blob/master/HindernislaufGIF.gif?raw=true)
 
 
 
